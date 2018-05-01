@@ -25,5 +25,3 @@ Jacob Isleib
 Resource Soil Scientist
 USDA-NRCS Connecticut
 jacob.isleib@usda.gov
-
-
