@@ -21,24 +21,39 @@ Correlation reduction - Creates a correlation matrix and then removes highly cor
 Near Zero Variance - Calculates the variance of each covariate and removes the ones that are at or near zero.   
 Iterative Principal Component Analysis (iPCA) - Method of iterating through PCAs to reduce the number of covariates down to the ones that account for the majority of the overall population variance.   
 
-<b>polypedon_points_v0.3.R</b>   
+<br><b>polypedon_points_v0.3.R</b>   
 A method I developed to generate model training points based on the concept of the polypedon.   
 
+<br><b>landsat_indicies.R</b>   
+Basic R script for calculating landsat8 indicies.   
 <br>
-<b>Stats_Project_DW</b>
-My final project for Stat for SS part 1   
-http://ncss-tech.github.io/soil-pit/sandbox/dave/Stats_Project_DW.html   
-   
-<br>
-Questions or Comments contact:   
 
+<br>
+<b>Stats_Project_DW</b>    
+My final project for Stat for SS part 1    
+http://ncss-tech.github.io/soil-pit/sandbox/dave/Stats_Project_DW.html    
+<br>
+
+<br>
+<b>cLHS_replacement_pts.R</b>   
+Utilizing the cLHS package to generate replacement cLHS points.   
+<br>
+
+<br>
+<b>DSM_Project_DW</b>    
+My final project for the Intro to DSM class    
+http://ncss-tech.github.io/soil-pit/sandbox/dave/DSM_Project_DW.html    
+<br>   
+<br>      
+Questions or Comments contact:   
+<br>
 Dave White   
 USDA-Natural Resources Conservation Service   
 Las Cruces Soil Survey Office   
 760 Stern Drive, Suite 124   
 Las Cruces, NM 88005   
 575-522-8775x136 (Phone)   
-david.white@nm.usda.gov(email)   
+david.white@usda.gov(email)   
 
 
 
